@@ -1,0 +1,10 @@
+E:\Calc_#_Sharp\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+E:\Calc_#_Sharp\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+E:\Calc_#_Sharp\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+E:\Calc_#_Sharp\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+E:\Calc_#_Sharp\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+E:\Calc_#_Sharp\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+E:\Calc_#_Sharp\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+E:\Calc_#_Sharp\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+E:\Calc_#_Sharp\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+E:\Calc_#_Sharp\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
